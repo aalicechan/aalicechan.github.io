@@ -1,6 +1,6 @@
 # Roboticist & Aerospace Engineer
 
-#### Technical Skills: Python, MATLAB
+#### Technical Skills: Python, MATLAB, Java, C/C++
 
 ## Education
 - Ph.D., Robotics | Georgia Institute of Technology (_May 2029_)								       		
