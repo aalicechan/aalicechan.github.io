@@ -1,11 +1,11 @@
-# Data Scientist
+# Roboticist & Aerospace Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Robotics | Georgia Institute of Technology (_May 2029_)								       		
+- M.S., Computer Science	| Georgia Institute of Technology (_May 2026_)	 			        		
+- B.S., Aeronautical & Astronautical Engineering | Purdue University (_May 2024_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
